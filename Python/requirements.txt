@@ -1,0 +1,9 @@
+pygame~=2.5.2
+PyQt5~=5.15.10
+pyttsx3~=2.90
+pypdf2~=3.0.1
+opencv-python~=4.8.1.78
+requests~=2.31.0
+bs4~=0.0.1
+beautifulsoup4~=4.12.2
+pyperclip~=1.8.2
